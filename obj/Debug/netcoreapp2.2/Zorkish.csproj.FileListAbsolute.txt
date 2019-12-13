@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/Zorkish.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/Zorkish.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/Zorkish.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/Zorkish.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/LaBeouf.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/LaBeouf.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/LaBeouf.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/LaBeouf.AssemblyInfo.cs
+/Users/Guest/Desktop/Zorkish/bin/Debug/netcoreapp2.2/LaBeouf.deps.json
+/Users/Guest/Desktop/Zorkish/bin/Debug/netcoreapp2.2/LaBeouf.runtimeconfig.json
+/Users/Guest/Desktop/Zorkish/bin/Debug/netcoreapp2.2/LaBeouf.runtimeconfig.dev.json
+/Users/Guest/Desktop/Zorkish/bin/Debug/netcoreapp2.2/LaBeouf.dll
+/Users/Guest/Desktop/Zorkish/bin/Debug/netcoreapp2.2/LaBeouf.pdb
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/LaBeouf.dll
+/Users/Guest/Desktop/Zorkish/obj/Debug/netcoreapp2.2/LaBeouf.pdb
